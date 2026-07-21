@@ -1,16 +1,32 @@
-class Solution {
-public:
-    int maxActiveSectionsAfterTrade(string s) {
-        int ones = 0;
-        for (char c : s)
-            if (c == '1') ones++;
+char ch = t[i];
+            int left = 0;
+            while (i < n && t[i] == ch) {
+                left++;
+                i++;
+            }
 
-        string t = "1" + s + "1";
+            if (ch != '0' || i >= n) continue;
 
-        vector<pair<char,int>> runs;
-        for (char c : t) {
-            if (runs.empty() || runs.back().first != c)
-                runs.push_back({c, 1});
-            else
-                runs.back().second++;
+            int mid = 0;
+            while (i < n && t[i] == '1') {
+                mid++;
+                i++;
+            }
+
+            if (mid == 0 || i >= n) continue;
+
+            int right = 0;
+            while (i < n && t[i] == '0') {
+                right++;
+                i++;
+            }
+
+            if (right > 0)
+                best = max(best, left + right);
+
         }
+
+        return ones + best;
+    }
+};
+        while (i < n) {
