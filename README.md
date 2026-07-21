@@ -8,9 +8,9 @@ Automatically synced from LeetCode using my custom LeetCode Auto Sync tool.
 
 | Metric | Count |
 |--------|------:|
-| Total Solved | 2 |
+| Total Solved | 3 |
 | Easy | 1 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ---
@@ -29,6 +29,7 @@ Hard/
 
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
-| 7 | Reverse Integer | Medium | C |
+| 7 | Reverse Integer | Medium | C++ |
+| - | Maximize Active Section with Trade I | Medium | C++ |
 | - | Shift 2D Grid | Easy | C++ |
 
