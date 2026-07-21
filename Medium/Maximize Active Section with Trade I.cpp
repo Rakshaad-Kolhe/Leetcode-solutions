@@ -1,36 +1,30 @@
-// left run
-            char ch = t[i];
-            int left = 0;
-            while (i < n && t[i] == ch) {
-                left++;
-                i++;
+else
+                runs.back().second++;
+        }
+
+        int best = 0;
+
+        for (int i = 1; i + 1 < runs.size(); i++) {
+            if (runs[i].first == '1' &&
+                runs[i - 1].first == '0' &&
+                runs[i + 1].first == '0') {
+                best = max(best, runs[i - 1].second + runs[i + 1].second);
             }
-
-            if (ch != '0' || i >= n) continue;
-
-            // middle run (must be 1s)
-            int mid = 0;
-            while (i < n && t[i] == '1') {
-                mid++;
-                i++;
-            }
-
-            if (mid == 0 || i >= n) continue;
-
-            // right run (must be 0s)
-            int right = 0;
-            while (i < n && t[i] == '0') {
-                right++;
-        while (i < n) {
-                i++;
-            }
-
-            if (right > 0)
-                best = max(best, left + right);
-
-            // Don't move i back; continue scanning.
         }
 
         return ones + best;
     }
 };
+                runs.push_back({c, 1});
+class Solution {
+public:
+    int maxActiveSectionsAfterTrade(string s) {
+        int ones = 0;
+        for (char c : s)
+            ones += (c == '1');
+
+        string t = "1" + s + "1";
+
+        vector<pair<char, int>> runs;
+        for (char c : t) {
+            if (runs.empty() || runs.back().first != c)
