@@ -34,3 +34,5 @@ public:
         }
 
         return 0.0;
+    }
+};

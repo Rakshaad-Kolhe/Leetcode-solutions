@@ -77,6 +77,8 @@ public:
         }
 
         return 0.0;
+    }
+};
 ```
 
 ---
@@ -84,4 +86,4 @@ public:
 Generated automatically by LeetCode Auto Sync.
 
 Last Updated:
-2026-07-24T08:06:06Z
+2026-07-24T08:46:51Z
