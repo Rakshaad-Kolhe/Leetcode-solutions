@@ -52,22 +52,22 @@ https://leetcode.com/problems/number-of-unique-xor-triplets-ii/
 ## Solution
 
 ```cpp
-pairXor.insert(nums[i] ^ nums[j]);
-            for (int j = i + 1; j < n; j++) {
-
-        for (int i = 0; i < n; i++) {
-        for (int x : nums)
-            ans.insert(x);
-        unordered_set<int> ans;
-
-        unordered_set<int> pairXor;
+class Solution {
+public:
+    int uniqueXorTriplets(vector<int>& nums) {
+        int n = nums.size();
 
         if (n == 1) return 1;
 
-        int n = nums.size();
-    int uniqueXorTriplets(vector<int>& nums) {
-public:
-class Solution {
+        unordered_set<int> pairXor;
+        unordered_set<int> ans;
+
+        for (int x : nums)
+            ans.insert(x);
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                pairXor.insert(nums[i] ^ nums[j]);
 ```
 
 ---
@@ -75,4 +75,4 @@ class Solution {
 Generated automatically by LeetCode Auto Sync.
 
 Last Updated:
-2026-07-24T05:17:18Z
+2026-07-24T05:41:52Z
