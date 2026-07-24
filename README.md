@@ -6,8 +6,8 @@
 
 | Metric | Count |
 | --- | ---: |
-| Total Solved | 7 |
-| Easy | 1 |
+| Total Solved | 8 |
+| Easy | 2 |
 | Medium | 6 |
 | Hard | 0 |
 
@@ -23,7 +23,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Difficulty | Solved |
 | --- | ---: |
-| 🟢 Easy | 1 |
+| 🟢 Easy | 2 |
 | 🟠 Medium | 6 |
 | 🔴 Hard | 0 |
 
@@ -33,7 +33,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Language | Solved |
 | --- | ---: |
-| C++ | 7 |
+| C++ | 8 |
 
 ---
 
@@ -41,7 +41,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Topic | Solved |
 | --- | ---: |
-| Math | 3 |
+| Math | 4 |
 | Array | 2 |
 | Bit Manipulation | 1 |
 | Breadth-First Search | 1 |
@@ -61,6 +61,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
 | 7 | Reverse Integer | 🟠 Medium | C++ |
+| 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | 🟢 Easy | C++ |
 | 2 | Add Two Numbers | 🟠 Medium | C++ |
 | 7 | Reverse Integer | 🟠 Medium | C++ |
 | 2685 | Count the Number of Complete Components | 🟠 Medium | C++ |
@@ -81,3 +82,4 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 | 2685 | Count the Number of Complete Components | 🟠 Medium | C++ | [2685-Count the Number of Complete Components](Medium/2685-Count%20the%20Number%20of%20Complete%20Components) |
 | 3513 | Number of Unique XOR Triplets I | 🟠 Medium | C++ | [Number of Unique XOR Triplets I](Medium/Number%20of%20Unique%20XOR%20Triplets%20I) |
 | 3514 | Number of Unique XOR Triplets II | 🟠 Medium | C++ | [3514-Number of Unique XOR Triplets II](Medium/3514-Number%20of%20Unique%20XOR%20Triplets%20II) |
+| 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | 🟢 Easy | C++ | [3754-Concatenate Non-Zero Digits and Multiply by Sum I](Easy/3754-Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) |
