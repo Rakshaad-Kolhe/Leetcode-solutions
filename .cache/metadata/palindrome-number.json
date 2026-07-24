@@ -1,0 +1,73 @@
+{
+  "problem_number": 9,
+  "title": "Palindrome Number",
+  "slug": "palindrome-number",
+  "difficulty": "Easy",
+  "acceptance_rate": "60.8%",
+  "likes": 16122,
+  "dislikes": 2940,
+  "topics": [
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "companies": [],
+  "hints": [
+    "Beware of overflow when you reverse the integer."
+  ],
+  "similar_questions": [
+    {
+      "title": "Palindrome Linked List",
+      "title_slug": "palindrome-linked-list",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Find Palindrome With Fixed Length",
+      "title_slug": "find-palindrome-with-fixed-length",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Strictly Palindromic Number",
+      "title_slug": "strictly-palindromic-number",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "  Count Symmetric Integers",
+      "title_slug": "count-symmetric-integers",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Find the Count of Good Integers",
+      "title_slug": "find-the-count-of-good-integers",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Find the Largest Palindrome Divisible by K",
+      "title_slug": "find-the-largest-palindrome-divisible-by-k",
+      "difficulty": "Hard"
+    }
+  ],
+  "raw": {
+    "questionId": "9",
+    "questionFrontendId": "9",
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number",
+    "difficulty": "Easy",
+    "likes": 16122,
+    "dislikes": 2940,
+    "acRate": 60.766276280822375,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [
+      "Beware of overflow when you reverse the integer."
+    ],
+    "similarQuestions": "[{\"title\": \"Palindrome Linked List\", \"titleSlug\": \"palindrome-linked-list\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find Palindrome With Fixed Length\", \"titleSlug\": \"find-palindrome-with-fixed-length\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Strictly Palindromic Number\", \"titleSlug\": \"strictly-palindromic-number\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"  Count Symmetric Integers\", \"titleSlug\": \"count-symmetric-integers\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find the Count of Good Integers\", \"titleSlug\": \"find-the-count-of-good-integers\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find the Largest Palindrome Divisible by K\", \"titleSlug\": \"find-the-largest-palindrome-divisible-by-k\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]"
+  },
+  "cached_at": "2026-07-24T09:53:40.055856+00:00"
+}
