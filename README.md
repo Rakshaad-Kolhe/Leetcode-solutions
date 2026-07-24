@@ -11,7 +11,7 @@
 | Medium | 5 |
 | Hard | 1 |
 
-Last Updated: 2026-07-24T08:46:51Z
+Last Updated: 2026-07-24T09:47:38Z
 
 Newest Problem: 4. Median of Two Sorted Arrays
 
@@ -41,14 +41,12 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 5 |
+| Array | 4 |
 | Math | 4 |
 | Hash Table | 2 |
-| Binary Search | 1 |
 | Bit Manipulation | 1 |
 | Breadth-First Search | 1 |
 | Depth-First Search | 1 |
-| Divide and Conquer | 1 |
 | Enumeration | 1 |
 | Graph Theory | 1 |
 | Linked List | 1 |
@@ -56,6 +54,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 | Recursion | 1 |
 | Simulation | 1 |
 | Sorting | 1 |
+| String | 1 |
 | Union-Find | 1 |
 
 ---

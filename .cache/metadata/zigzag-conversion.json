@@ -1,0 +1,38 @@
+{
+  "problem_number": 6,
+  "title": "Zigzag Conversion",
+  "slug": "zigzag-conversion",
+  "difficulty": "Medium",
+  "acceptance_rate": "54.7%",
+  "likes": 9471,
+  "dislikes": 15985,
+  "topics": [
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "companies": [],
+  "hints": [],
+  "similar_questions": [],
+  "raw": {
+    "questionId": "6",
+    "questionFrontendId": "6",
+    "title": "Zigzag Conversion",
+    "titleSlug": "zigzag-conversion",
+    "difficulty": "Medium",
+    "likes": 9471,
+    "dislikes": 15985,
+    "acRate": 54.65881390980785,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [],
+    "similarQuestions": "[]"
+  },
+  "cached_at": "2026-07-24T09:47:38.322225+00:00"
+}

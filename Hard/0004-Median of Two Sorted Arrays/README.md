@@ -8,33 +8,31 @@
 
 ## Problem
 
-https://leetcode.com/problems/median-of-two-sorted-arrays/
+https://leetcode.com/problems/zigzag-conversion/
 
 ---
 
 ## Acceptance Rate
 
-47.1%
+54.7%
 
 ---
 
 ## Likes
 
-32489
+9471
 
 ---
 
 ## Dislikes
 
-3595
+15985
 
 ---
 
 ## Topics
 
-- Array
-- Binary Search
-- Divide and Conquer
+- String
 
 ---
 
@@ -43,40 +41,28 @@ https://leetcode.com/problems/median-of-two-sorted-arrays/
 ```cpp
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        if (nums1.size() > nums2.size())
-            return findMedianSortedArrays(nums2, nums1);
+    string convert(string s, int numRows) {
+        if (numRows == 1 || numRows >= s.size())
+            return s;
 
-        int m = nums1.size();
-        int n = nums2.size();
+        vector<string> rows(numRows);
+        int currRow = 0;
+        bool goingDown = false;
 
-        int left = 0, right = m;
+        for (char c : s) {
+            rows[currRow] += c;
 
-        while (left <= right) {
-            int partitionX = (left + right) / 2;
-            int partitionY = (m + n + 1) / 2 - partitionX;
+            if (currRow == 0 || currRow == numRows - 1)
+                goingDown = !goingDown;
 
-            int maxLeftX = (partitionX == 0) ? INT_MIN : nums1[partitionX - 1];
-            int minRightX = (partitionX == m) ? INT_MAX : nums1[partitionX];
-
-            int maxLeftY = (partitionY == 0) ? INT_MIN : nums2[partitionY - 1];
-            int minRightY = (partitionY == n) ? INT_MAX : nums2[partitionY];
-
-            if (maxLeftX <= minRightY && maxLeftY <= minRightX) {
-                if ((m + n) % 2 == 0) {
-                    return (max(maxLeftX, maxLeftY) +
-                            min(minRightX, minRightY)) / 2.0;
-                } else {
-                    return max(maxLeftX, maxLeftY);
-                }
-            } else if (maxLeftX > minRightY) {
-                right = partitionX - 1;
-            } else {
-                left = partitionX + 1;
-            }
+            currRow += goingDown ? 1 : -1;
         }
 
-        return 0.0;
+        string ans;
+        for (string &row : rows)
+            ans += row;
+
+        return ans;
     }
 };
 ```
@@ -86,4 +72,4 @@ public:
 Generated automatically by LeetCode Auto Sync.
 
 Last Updated:
-2026-07-24T08:46:51Z
+2026-07-24T09:47:38Z
