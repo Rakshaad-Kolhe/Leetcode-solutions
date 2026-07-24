@@ -6,8 +6,8 @@
 
 | Metric | Count |
 | --- | ---: |
-| Total Solved | 9 |
-| Easy | 3 |
+| Total Solved | 10 |
+| Easy | 4 |
 | Medium | 6 |
 | Hard | 0 |
 
@@ -23,7 +23,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Difficulty | Solved |
 | --- | ---: |
-| 🟢 Easy | 3 |
+| 🟢 Easy | 4 |
 | 🟠 Medium | 6 |
 | 🔴 Hard | 0 |
 
@@ -33,7 +33,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Language | Solved |
 | --- | ---: |
-| C++ | 9 |
+| C++ | 10 |
 
 ---
 
@@ -41,8 +41,8 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Topic | Solved |
 | --- | ---: |
+| Array | 4 |
 | Math | 4 |
-| Array | 3 |
 | Hash Table | 2 |
 | Bit Manipulation | 1 |
 | Breadth-First Search | 1 |
@@ -50,7 +50,9 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 | Enumeration | 1 |
 | Graph Theory | 1 |
 | Linked List | 1 |
+| Matrix | 1 |
 | Recursion | 1 |
+| Simulation | 1 |
 | Sorting | 1 |
 | Union-Find | 1 |
 
@@ -61,6 +63,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
 | 7 | Reverse Integer | 🟠 Medium | C++ |
+| 1260 | Shift 2D Grid | 🟢 Easy | C++ |
 | 1 | Two Sum | 🟢 Easy | C++ |
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | 🟢 Easy | C++ |
 | 2 | Add Two Numbers | 🟠 Medium | C++ |
@@ -80,6 +83,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 | 2 | Add Two Numbers | 🟠 Medium | C++ | [0002-Add Two Numbers](Medium/0002-Add%20Two%20Numbers) |
 | 7 | Reverse Integer | 🟠 Medium | C++ | [0007-Reverse Integer](Medium/0007-Reverse%20Integer) |
 | 7 | Reverse Integer | 🟠 Medium | C++ | [0007-Reverse-Integer](Medium/0007-Reverse-Integer) |
+| 1260 | Shift 2D Grid | 🟢 Easy | C++ | [1260-Shift 2D Grid](Easy/1260-Shift%202D%20Grid) |
 | 1331 | Rank Transform of an Array | 🟢 Easy | C++ | [1331-Rank Transform of an Array](Easy/1331-Rank%20Transform%20of%20an%20Array) |
 | 2685 | Count the Number of Complete Components | 🟠 Medium | C++ | [2685-Count the Number of Complete Components](Medium/2685-Count%20the%20Number%20of%20Complete%20Components) |
 | 3513 | Number of Unique XOR Triplets I | 🟠 Medium | C++ | [Number of Unique XOR Triplets I](Medium/Number%20of%20Unique%20XOR%20Triplets%20I) |

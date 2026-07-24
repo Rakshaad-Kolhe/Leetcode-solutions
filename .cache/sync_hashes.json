@@ -1,6 +1,8 @@
 {
   "Easy/0001-Two Sum/README.md": "167c1bab50d4b9feb739efb657754468187c4466d3442d560fc1859b3584097c",
   "Easy/0001-Two Sum/solution.cpp": "9c81e6abc1f99ed5165dafbea35642e2082df5963245ed3549b62c1beaa6a8da",
+  "Easy/1260-Shift 2D Grid/README.md": "c06c303038c1991d99f70451a56feb98cb3d1c5411efa3d40b392f2ac6fe41d5",
+  "Easy/1260-Shift 2D Grid/solution.cpp": "a4e22acfb7027a42359e3ed01bc8d3cf23dc19014481f6205253660bb0418061",
   "Easy/1331-Rank Transform of an Array/README.md": "807d2aa737ba5c6c38bf3eb7a4f8d76271408a52db87e93980bb795cc3999165",
   "Easy/1331-Rank Transform of an Array/solution.cpp": "c0395d252e0aa79ac442d868beeb6ef293b6947d0b5b4ea86819dd66cd0f3d09",
   "Easy/3754-Concatenate Non-Zero Digits and Multiply by Sum I/README.md": "7422c13f9d04a9bcce002944fa07f1210490cbdf38df8bf51941ae1215f0e74a",
@@ -13,8 +15,8 @@
   "Medium/2685-Count the Number of Complete Components/solution.cpp": "fc5c44bdd91c47105c65b196822a4db1596d0c85ce8433cce4293e8702639336",
   "Medium/3514-Number of Unique XOR Triplets II/README.md": "36159630e8d086d7ec75776caa8d49c0f5840d0aca98180858b6ba4baa4dbf71",
   "Medium/3514-Number of Unique XOR Triplets II/solution.cpp": "e0bdca07c7856289fbaf2fc2563d6bdb1cfa5e4dfa23270cbb43165e6a808615",
-  "README.md": "64ead0d46eb408d6f1f2ebf97586619c69680c937312fd5e73335f423f233123",
-  "Topics/Array.md": "682dd0d6216eea16fd01660079c7f09512a47cf1b6ebe3acd8265411d496e5eb",
+  "README.md": "818a36ba43ecf46868e33ef4e66507b63a0db1581f7d20cb09171ab50d5a153d",
+  "Topics/Array.md": "7c5ea1f85b3cb90c63d92fa13ea24838818680700a21d083126d1ceb216e3f92",
   "Topics/Bit Manipulation.md": "0141f468ff2448f18e04eb3539887ea2ed11a2eead5ff20da91a1c4271edc494",
   "Topics/Breadth-First Search.md": "bc902b4b28b65abbfee1878a61c3961a56aaa4aa72bec78ef07ed9d7f1459b8f",
   "Topics/Depth-First Search.md": "9f41c5167e39333cf235f014a40ec60cbaf05f4fdf121dc6c53c2ce15e83969f",
@@ -23,7 +25,9 @@
   "Topics/Hash Table.md": "834fafcaea871e25ac529d601037e6c97d9a05c38a8d6c2ded0e5ca20f5a11c0",
   "Topics/Linked List.md": "9839dd0ccdf564163b02c6d9c4e710e813e56edc604fc070aa3fdb18b9609b8d",
   "Topics/Math.md": "94b9c7a873fa63caf9815863fb15ceea0ad34f8fee4b1eb257c139b3e735416a",
+  "Topics/Matrix.md": "77bb3eecc145b89767e6f64328e795d904dbf4100087e07bfce6b2a0b6b5b88d",
   "Topics/Recursion.md": "cb80b9d9ed00b801f00277185d4fe4d58408b7891a39d100d708e4c49b391772",
+  "Topics/Simulation.md": "ae55ce49f6539bbd2d60f3359269c1ddf50fcbcbcc88fb941c4b16ef052c1cf7",
   "Topics/Sorting.md": "92365562368b40583137dce9de2566cbe7352f78600903445fd1cf042dbd1a91",
   "Topics/Union-Find.md": "295f4281b94d311e6ac2c639a29999685d9ce560cda4543110c108f8e92388af"
 }
