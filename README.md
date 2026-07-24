@@ -6,8 +6,8 @@
 
 | Metric | Count |
 | --- | ---: |
-| Total Solved | 8 |
-| Easy | 2 |
+| Total Solved | 9 |
+| Easy | 3 |
 | Medium | 6 |
 | Hard | 0 |
 
@@ -23,7 +23,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Difficulty | Solved |
 | --- | ---: |
-| 🟢 Easy | 2 |
+| 🟢 Easy | 3 |
 | 🟠 Medium | 6 |
 | 🔴 Hard | 0 |
 
@@ -33,7 +33,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Language | Solved |
 | --- | ---: |
-| C++ | 8 |
+| C++ | 9 |
 
 ---
 
@@ -42,13 +42,13 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 | Topic | Solved |
 | --- | ---: |
 | Math | 4 |
-| Array | 2 |
+| Array | 3 |
+| Hash Table | 2 |
 | Bit Manipulation | 1 |
 | Breadth-First Search | 1 |
 | Depth-First Search | 1 |
 | Enumeration | 1 |
 | Graph Theory | 1 |
-| Hash Table | 1 |
 | Linked List | 1 |
 | Recursion | 1 |
 | Sorting | 1 |
@@ -61,6 +61,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
 | 7 | Reverse Integer | 🟠 Medium | C++ |
+| 1 | Two Sum | 🟢 Easy | C++ |
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | 🟢 Easy | C++ |
 | 2 | Add Two Numbers | 🟠 Medium | C++ |
 | 7 | Reverse Integer | 🟠 Medium | C++ |
@@ -75,6 +76,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | # | Problem | Difficulty | Language | Folder |
 | ---: | --- | --- | --- | --- |
+| 1 | Two Sum | 🟢 Easy | C++ | [0001-Two Sum](Easy/0001-Two%20Sum) |
 | 2 | Add Two Numbers | 🟠 Medium | C++ | [0002-Add Two Numbers](Medium/0002-Add%20Two%20Numbers) |
 | 7 | Reverse Integer | 🟠 Medium | C++ | [0007-Reverse Integer](Medium/0007-Reverse%20Integer) |
 | 7 | Reverse Integer | 🟠 Medium | C++ | [0007-Reverse-Integer](Medium/0007-Reverse-Integer) |
