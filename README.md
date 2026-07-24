@@ -6,9 +6,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| Total Solved | 6 |
+| Total Solved | 7 |
 | Easy | 1 |
-| Medium | 5 |
+| Medium | 6 |
 | Hard | 0 |
 
 Last Updated: N/A
@@ -24,7 +24,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 | Difficulty | Solved |
 | --- | ---: |
 | 🟢 Easy | 1 |
-| 🟠 Medium | 5 |
+| 🟠 Medium | 6 |
 | 🔴 Hard | 0 |
 
 ---
@@ -33,7 +33,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Language | Solved |
 | --- | ---: |
-| C++ | 6 |
+| C++ | 7 |
 
 ---
 
@@ -41,14 +41,16 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | Topic | Solved |
 | --- | ---: |
+| Math | 3 |
 | Array | 2 |
-| Math | 2 |
 | Bit Manipulation | 1 |
 | Breadth-First Search | 1 |
 | Depth-First Search | 1 |
 | Enumeration | 1 |
 | Graph Theory | 1 |
 | Hash Table | 1 |
+| Linked List | 1 |
+| Recursion | 1 |
 | Sorting | 1 |
 | Union-Find | 1 |
 
@@ -59,6 +61,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
 | 7 | Reverse Integer | 🟠 Medium | C++ |
+| 2 | Add Two Numbers | 🟠 Medium | C++ |
 | 7 | Reverse Integer | 🟠 Medium | C++ |
 | 2685 | Count the Number of Complete Components | 🟠 Medium | C++ |
 | 1331 | Rank Transform of an Array | 🟢 Easy | C++ |
@@ -71,6 +74,7 @@ Oldest Problem: 3513. Number of Unique XOR Triplets I
 
 | # | Problem | Difficulty | Language | Folder |
 | ---: | --- | --- | --- | --- |
+| 2 | Add Two Numbers | 🟠 Medium | C++ | [0002-Add Two Numbers](Medium/0002-Add%20Two%20Numbers) |
 | 7 | Reverse Integer | 🟠 Medium | C++ | [0007-Reverse Integer](Medium/0007-Reverse%20Integer) |
 | 7 | Reverse Integer | 🟠 Medium | C++ | [0007-Reverse-Integer](Medium/0007-Reverse-Integer) |
 | 1331 | Rank Transform of an Array | 🟢 Easy | C++ | [1331-Rank Transform of an Array](Easy/1331-Rank%20Transform%20of%20an%20Array) |
