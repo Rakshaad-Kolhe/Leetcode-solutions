@@ -6,12 +6,26 @@
 
 | Metric | Count |
 | --- | ---: |
-| Total Solved | 2 |
+| Total Solved | 3 |
 | Easy | 0 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
 
-Generated: N/A
+Last Updated: N/A
+
+Newest Problem: 7. Reverse Integer
+
+Oldest Problem: 3513. Number of Unique XOR Triplets I
+
+---
+
+## Difficulty Distribution
+
+| Difficulty | Solved |
+| --- | ---: |
+| 🟢 Easy | 0 |
+| 🟠 Medium | 3 |
+| 🔴 Hard | 0 |
 
 ---
 
@@ -19,7 +33,18 @@ Generated: N/A
 
 | Language | Solved |
 | --- | ---: |
-| C++ | 2 |
+| C++ | 3 |
+
+---
+
+## Topic Distribution
+
+| Topic | Solved |
+| --- | ---: |
+| Array | 1 |
+| Bit Manipulation | 1 |
+| Enumeration | 1 |
+| Math | 1 |
 
 ---
 
@@ -27,8 +52,9 @@ Generated: N/A
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
-| 7 | Reverse Integer | Medium | C++ |
-| 3513 | Number of Unique XOR Triplets I | Medium | C++ |
+| 7 | Reverse Integer | 🟠 Medium | C++ |
+| 3514 | Number of Unique XOR Triplets II | 🟠 Medium | C++ |
+| 3513 | Number of Unique XOR Triplets I | 🟠 Medium | C++ |
 
 ---
 
@@ -36,5 +62,6 @@ Generated: N/A
 
 | # | Problem | Difficulty | Language | Folder |
 | ---: | --- | --- | --- | --- |
-| 7 | Reverse Integer | Medium | C++ | Medium/0007-Reverse-Integer |
-| 3513 | Number of Unique XOR Triplets I | Medium | C++ | Medium/Number of Unique XOR Triplets I |
+| 7 | Reverse Integer | 🟠 Medium | C++ | [0007-Reverse-Integer](Medium/0007-Reverse-Integer) |
+| 3513 | Number of Unique XOR Triplets I | 🟠 Medium | C++ | [Number of Unique XOR Triplets I](Medium/Number%20of%20Unique%20XOR%20Triplets%20I) |
+| 3514 | Number of Unique XOR Triplets II | 🟠 Medium | C++ | [3514-Number of Unique XOR Triplets II](Medium/3514-Number%20of%20Unique%20XOR%20Triplets%20II) |
