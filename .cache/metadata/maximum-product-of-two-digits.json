@@ -1,0 +1,50 @@
+{
+  "problem_number": 3536,
+  "title": "Maximum Product of Two Digits",
+  "slug": "maximum-product-of-two-digits",
+  "difficulty": "Easy",
+  "acceptance_rate": "72.1%",
+  "likes": 114,
+  "dislikes": 3,
+  "topics": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "companies": [],
+  "hints": [
+    "Use brute force"
+  ],
+  "similar_questions": [],
+  "raw": {
+    "questionId": "3859",
+    "questionFrontendId": "3536",
+    "title": "Maximum Product of Two Digits",
+    "titleSlug": "maximum-product-of-two-digits",
+    "difficulty": "Easy",
+    "likes": 114,
+    "dislikes": 3,
+    "acRate": 72.13917501123768,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [
+      "Use brute force"
+    ],
+    "similarQuestions": "[]"
+  },
+  "cached_at": "2026-07-25T04:49:36.240737+00:00"
+}
