@@ -1,0 +1,65 @@
+{
+  "problem_number": 628,
+  "title": "Maximum Product of Three Numbers",
+  "slug": "maximum-product-of-three-numbers",
+  "difficulty": "Easy",
+  "acceptance_rate": "48.0%",
+  "likes": 4790,
+  "dislikes": 732,
+  "topics": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "companies": [],
+  "hints": [],
+  "similar_questions": [
+    {
+      "title": "Maximum Product Subarray",
+      "title_slug": "maximum-product-subarray",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Maximum Product of Three Elements After One Replacement",
+      "title_slug": "maximum-product-of-three-elements-after-one-replacement",
+      "difficulty": "Medium"
+    }
+  ],
+  "raw": {
+    "questionId": "628",
+    "questionFrontendId": "628",
+    "title": "Maximum Product of Three Numbers",
+    "titleSlug": "maximum-product-of-three-numbers",
+    "difficulty": "Easy",
+    "likes": 4790,
+    "dislikes": 732,
+    "acRate": 48.01006051656998,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [],
+    "similarQuestions": "[{\"title\": \"Maximum Product Subarray\", \"titleSlug\": \"maximum-product-subarray\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Product of Three Elements After One Replacement\", \"titleSlug\": \"maximum-product-of-three-elements-after-one-replacement\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]"
+  },
+  "cached_at": "2026-07-26T19:48:43.882926+00:00"
+}

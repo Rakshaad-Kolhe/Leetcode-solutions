@@ -6,14 +6,14 @@
 
 | Metric | Count |
 | --- | ---: |
-| Total Solved | 1 |
-| Easy | 1 |
+| Total Solved | 2 |
+| Easy | 2 |
 | Medium | 0 |
 | Hard | 0 |
 
-Last Updated: 2026-07-25T04:49:36Z
+Last Updated: 2026-07-26T19:48:43Z
 
-Newest Problem: 3536. Maximum Product of Two Digits
+Newest Problem: 628. Maximum Product of Three Numbers
 
 Oldest Problem: 3536. Maximum Product of Two Digits
 
@@ -23,7 +23,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Difficulty | Solved |
 | --- | ---: |
-| 🟢 Easy | 1 |
+| 🟢 Easy | 2 |
 | 🟠 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -33,7 +33,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Language | Solved |
 | --- | ---: |
-| C++ | 1 |
+| C++ | 2 |
 
 ---
 
@@ -41,8 +41,9 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Topic | Solved |
 | --- | ---: |
-| Math | 1 |
-| Sorting | 1 |
+| Math | 2 |
+| Sorting | 2 |
+| Array | 1 |
 
 ---
 
@@ -50,6 +51,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
+| 628 | Maximum Product of Three Numbers | 🟢 Easy | C++ |
 | 3536 | Maximum Product of Two Digits | 🟢 Easy | C++ |
 
 ---
@@ -58,4 +60,5 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | # | Problem | Difficulty | Language | Folder |
 | ---: | --- | --- | --- | --- |
+| 628 | Maximum Product of Three Numbers | 🟢 Easy | C++ | [0628-Maximum Product of Three Numbers](Easy/0628-Maximum%20Product%20of%20Three%20Numbers) |
 | 3536 | Maximum Product of Two Digits | 🟢 Easy | C++ | [3536-Maximum Product of Two Digits](Easy/3536-Maximum%20Product%20of%20Two%20Digits) |
