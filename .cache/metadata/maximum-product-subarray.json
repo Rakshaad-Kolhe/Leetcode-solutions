@@ -1,0 +1,72 @@
+{
+  "problem_number": 152,
+  "title": "Maximum Product Subarray",
+  "slug": "maximum-product-subarray",
+  "difficulty": "Medium",
+  "acceptance_rate": "36.8%",
+  "likes": 20691,
+  "dislikes": 836,
+  "topics": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "companies": [],
+  "hints": [],
+  "similar_questions": [
+    {
+      "title": "Maximum Subarray",
+      "title_slug": "maximum-subarray",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "House Robber",
+      "title_slug": "house-robber",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Product of Array Except Self",
+      "title_slug": "product-of-array-except-self",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Maximum Product of Three Numbers",
+      "title_slug": "maximum-product-of-three-numbers",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Subarray Product Less Than K",
+      "title_slug": "subarray-product-less-than-k",
+      "difficulty": "Medium"
+    }
+  ],
+  "raw": {
+    "questionId": "152",
+    "questionFrontendId": "152",
+    "title": "Maximum Product Subarray",
+    "titleSlug": "maximum-product-subarray",
+    "difficulty": "Medium",
+    "likes": 20691,
+    "dislikes": 836,
+    "acRate": 36.75119160449319,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [],
+    "similarQuestions": "[{\"title\": \"Maximum Subarray\", \"titleSlug\": \"maximum-subarray\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"House Robber\", \"titleSlug\": \"house-robber\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Product of Array Except Self\", \"titleSlug\": \"product-of-array-except-self\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Product of Three Numbers\", \"titleSlug\": \"maximum-product-of-three-numbers\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Subarray Product Less Than K\", \"titleSlug\": \"subarray-product-less-than-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]"
+  },
+  "cached_at": "2026-07-26T21:34:33.468902+00:00"
+}
