@@ -48,30 +48,26 @@ https://leetcode.com/problems/smallest-palindromic-rearrangement-i/
 ## Solution
 
 ```cpp
-class Solution {
+class Solution {
 public:
-    string smallestPalindrome(string s) {
-        int cnt[26] = {};
+    string smallestPalindrome(string s) {
+        int n = s.size();
+        int cnt[26] = {};
 
-        for (char c : s)
-            cnt[c - 'a']++;
+        for (int i = 0; i < n / 2; i++)
+            cnt[s[i] - 'a']++;
 
-        string left, mid;
-        left.reserve(s.size() / 2);
+        int idx = 0;
+        for (int i = 0; i < 26; i++) {
+            while (cnt[i]--)
+                s[idx++] = 'a' + i;
+        }
 
-        for (int i = 0; i < 26; i++) {
-            left.append(cnt[i] / 2, char('a' + i));
-            if (cnt[i] & 1)
-                mid.push_back(char('a' + i));
-        }
+        for (int i = 0; i < n / 2; i++)
+            s[n - 1 - i] = s[i];
 
-        string ans = left + mid;
-
-        for (int i = left.size() - 1; i >= 0; i--)
-            ans.push_back(left[i]);
-
-        return ans;
-    }
+        return s;
+    }
 };
 ```
 
@@ -80,6 +76,6 @@ public:
 Generated automatically by LeetCode Auto Sync.
 
 Last Updated:
-2026-07-28T08:06:04Z
+2026-07-28T08:07:48Z
 
-<!-- Trace ID: SYNC-20260728-b3fdb68a -->
+<!-- Trace ID: SYNC-20260728-25c41172 -->
