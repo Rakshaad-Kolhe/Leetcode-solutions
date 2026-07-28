@@ -1,0 +1,54 @@
+{
+  "problem_number": 1689,
+  "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+  "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+  "difficulty": "Medium",
+  "acceptance_rate": "90.5%",
+  "likes": 2843,
+  "dislikes": 1547,
+  "topics": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "companies": [],
+  "hints": [
+    "Think about if the input was only one digit. Then you need to add up as many ones as the value of this digit.",
+    "If the input has multiple digits, then you can solve for each digit independently, and merge the answers to form numbers that add up to that input.",
+    "Thus the answer is equal to the max digit."
+  ],
+  "similar_questions": [],
+  "raw": {
+    "questionId": "1807",
+    "questionFrontendId": "1689",
+    "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+    "difficulty": "Medium",
+    "likes": 2843,
+    "dislikes": 1547,
+    "acRate": 90.46821790724809,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [
+      "Think about if the input was only one digit. Then you need to add up as many ones as the value of this digit.",
+      "If the input has multiple digits, then you can solve for each digit independently, and merge the answers to form numbers that add up to that input.",
+      "Thus the answer is equal to the max digit."
+    ],
+    "similarQuestions": "[]"
+  },
+  "cached_at": "2026-07-28T09:06:22.466619+00:00"
+}

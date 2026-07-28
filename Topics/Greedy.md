@@ -1,10 +1,9 @@
-# String
+# Greedy
 
-Solved: 2
+Solved: 1
 
 ---
 
 ## Problems
 
 - [Partitioning Into Minimum Number Of Deci-Binary Numbers](../Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
-- [Smallest Palindromic Rearrangement I](../Medium/3517-Smallest%20Palindromic%20Rearrangement%20I)

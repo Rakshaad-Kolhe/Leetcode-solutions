@@ -9,14 +9,17 @@
   "Medium/0007-Reverse Integer/solution.cpp": "8d6bce1f0321fd8053dfc3cc8060df39989e62cf1629fd167563701c856dc9ba",
   "Medium/0152-Maximum Product Subarray/README.md": "4e25ab424d816bdb9fc88c91969783097599ba2577832a2b302b499d6c47251b",
   "Medium/0152-Maximum Product Subarray/solution.cpp": "d855871c9895cd762919b9509c8c9a1f4e6d3c7609768ea97b732bfb1f56cbb1",
+  "Medium/1689-Partitioning Into Minimum Number Of Deci-Binary Numbers/README.md": "529ce0af0efa3d2ec971be1ff2d56fd2c72da2d4ac1798fa73788937dd7ae57c",
+  "Medium/1689-Partitioning Into Minimum Number Of Deci-Binary Numbers/solution.cpp": "7378d6307f2ffafc413b83af8926f03e4172e405ca71c578aff28cbc1ec92085",
   "Medium/3517-Smallest Palindromic Rearrangement I/README.md": "a54ddbea74915956116c63c0461ad0e6e8735498edf9861518b64408238b85f7",
   "Medium/3517-Smallest Palindromic Rearrangement I/solution.cpp": "049fd42efc6f619474d50881ce16bca99455e6ed89f6c86bb7d54e50d8d32a01",
-  "README.md": "d9b5f85620a103b145ff578802de0b1f9572e04e045a2de289d5aa4249633960",
+  "README.md": "99eb2959338c33ea41a769c9c5180e573584cb975d67efd076776e7ac8e9d14f",
   "Topics/Array.md": "00f93f0aa721f020f75cea3b2ea3f0899dd446e6cba871de6a7b773e68d9931b",
   "Topics/Counting Sort.md": "b894762c78c2f01bb9720939c58aa2a2f5b587cf60e2db6ed82bd3a75f77f442",
   "Topics/Dynamic Programming.md": "a793430271cd2a0b430b1524ce9e4715718e0e436331b3323349d0f97fda50c8",
+  "Topics/Greedy.md": "ce7a25d5ccdca6e0cbfd19b641424745c10373a207484f6ed734b4042cbde6c6",
   "Topics/Heap (Priority Queue).md": "f63718985e661ee225136681c8296e5d4e8bf4bf9b70e57ca50d0016ef0ba74a",
   "Topics/Math.md": "c9c322ab1083ce34d8118acbc60e83b1d124f84432d87db5a315fd1d46bd2577",
   "Topics/Sorting.md": "e3814d188d428d2ed007a00762e8b04305d5d7657d3131182cd0bb1089c2314f",
-  "Topics/String.md": "051b2f222b2cd6570214aea0eefd354d5a53d3e07f5bfeaa4552292f47a3bd86"
+  "Topics/String.md": "2b3b9fbe6868165ba0f962b493bf2dc4173787a0b6f9293639da1960feca71a5"
 }
