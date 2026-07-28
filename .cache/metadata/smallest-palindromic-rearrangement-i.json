@@ -1,0 +1,66 @@
+{
+  "problem_number": 3517,
+  "title": "Smallest Palindromic Rearrangement I",
+  "slug": "smallest-palindromic-rearrangement-i",
+  "difficulty": "Medium",
+  "acceptance_rate": "70.6%",
+  "likes": 213,
+  "dislikes": 5,
+  "topics": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Counting Sort",
+      "slug": "counting-sort"
+    }
+  ],
+  "companies": [],
+  "hints": [
+    "Consider a palindrome as composed of two mirror-image halves.",
+    "Construct one half (using <code>s</code>), and then the other half is its reverse to obtain the lexicographically smallest permutation."
+  ],
+  "similar_questions": [
+    {
+      "title": "Shortest Palindrome",
+      "title_slug": "shortest-palindrome",
+      "difficulty": "Hard"
+    }
+  ],
+  "raw": {
+    "questionId": "3812",
+    "questionFrontendId": "3517",
+    "title": "Smallest Palindromic Rearrangement I",
+    "titleSlug": "smallest-palindromic-rearrangement-i",
+    "difficulty": "Medium",
+    "likes": 213,
+    "dislikes": 5,
+    "acRate": 70.63301482482032,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [
+      "Consider a palindrome as composed of two mirror-image halves.",
+      "Construct one half (using <code>s</code>), and then the other half is its reverse to obtain the lexicographically smallest permutation."
+    ],
+    "similarQuestions": "[{\"title\": \"Shortest Palindrome\", \"titleSlug\": \"shortest-palindrome\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]"
+  },
+  "cached_at": "2026-07-28T08:04:14.306329+00:00"
+}

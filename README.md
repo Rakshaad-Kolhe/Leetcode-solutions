@@ -6,14 +6,14 @@
 
 | Metric | Count |
 | --- | ---: |
-| Total Solved | 5 |
+| Total Solved | 6 |
 | Easy | 3 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
 
-Last Updated: 2026-07-27T10:17:04Z
+Last Updated: 2026-07-28T08:04:14Z
 
-Newest Problem: 7. Reverse Integer
+Newest Problem: 3517. Smallest Palindromic Rearrangement I
 
 Oldest Problem: 3536. Maximum Product of Two Digits
 
@@ -24,7 +24,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 | Difficulty | Solved |
 | --- | ---: |
 | 🟢 Easy | 3 |
-| 🟠 Medium | 2 |
+| 🟠 Medium | 3 |
 | 🔴 Hard | 0 |
 
 ---
@@ -33,7 +33,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Language | Solved |
 | --- | ---: |
-| C++ | 5 |
+| C++ | 6 |
 
 ---
 
@@ -41,11 +41,13 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Topic | Solved |
 | --- | ---: |
+| Sorting | 4 |
 | Array | 3 |
 | Math | 3 |
-| Sorting | 3 |
+| Counting Sort | 1 |
 | Dynamic Programming | 1 |
 | Heap (Priority Queue) | 1 |
+| String | 1 |
 
 ---
 
@@ -53,6 +55,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
+| 3517 | Smallest Palindromic Rearrangement I | 🟠 Medium | C++ |
 | 7 | Reverse Integer | 🟠 Medium | C++ |
 | 1464 | Maximum Product of Two Elements in an Array | 🟢 Easy | C++ |
 | 152 | Maximum Product Subarray | 🟠 Medium | C++ |
@@ -69,4 +72,5 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 | 152 | Maximum Product Subarray | 🟠 Medium | C++ | [0152-Maximum Product Subarray](Medium/0152-Maximum%20Product%20Subarray) |
 | 628 | Maximum Product of Three Numbers | 🟢 Easy | C++ | [0628-Maximum Product of Three Numbers](Easy/0628-Maximum%20Product%20of%20Three%20Numbers) |
 | 1464 | Maximum Product of Two Elements in an Array | 🟢 Easy | C++ | [1464-Maximum Product of Two Elements in an Array](Easy/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) |
+| 3517 | Smallest Palindromic Rearrangement I | 🟠 Medium | C++ | [3517-Smallest Palindromic Rearrangement I](Medium/3517-Smallest%20Palindromic%20Rearrangement%20I) |
 | 3536 | Maximum Product of Two Digits | 🟢 Easy | C++ | [3536-Maximum Product of Two Digits](Easy/3536-Maximum%20Product%20of%20Two%20Digits) |
