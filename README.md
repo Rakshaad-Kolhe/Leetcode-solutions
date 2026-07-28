@@ -11,7 +11,7 @@
 | Medium | 3 |
 | Hard | 0 |
 
-Last Updated: 2026-07-28T08:04:14Z
+Last Updated: 2026-07-28T08:06:04Z
 
 Newest Problem: 3517. Smallest Palindromic Rearrangement I
 
