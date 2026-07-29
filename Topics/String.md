@@ -1,6 +1,6 @@
 # String
 
-Solved: 2
+Solved: 3
 
 ---
 
@@ -8,3 +8,4 @@ Solved: 2
 
 - [Partitioning Into Minimum Number Of Deci-Binary Numbers](../Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
 - [Smallest Palindromic Rearrangement I](../Medium/3517-Smallest%20Palindromic%20Rearrangement%20I)
+- [Smallest Palindromic Rearrangement II](../Hard/3518-Smallest%20Palindromic%20Rearrangement%20II)

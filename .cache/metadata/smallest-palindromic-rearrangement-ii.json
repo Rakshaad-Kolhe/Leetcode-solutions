@@ -1,0 +1,82 @@
+{
+  "problem_number": 3518,
+  "title": "Smallest Palindromic Rearrangement II",
+  "slug": "smallest-palindromic-rearrangement-ii",
+  "difficulty": "Hard",
+  "acceptance_rate": "32.9%",
+  "likes": 167,
+  "dislikes": 15,
+  "topics": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Combinatorics",
+      "slug": "combinatorics"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "companies": [],
+  "hints": [
+    "Only build <code>floor(n / 2)</code> characters (the rest are determined by symmetry).",
+    "Count character frequencies and use half the counts for construction.",
+    "Incrementally choose each character (from smallest to largest) and calculate how many valid arrangements result if that character is chosen at the current index.",
+    "If the count is at least <code>k</code>, fix that character; otherwise, subtract the count from <code>k</code> and try the next candidate.",
+    "Use combinatorics to compute the number of permutations at each step."
+  ],
+  "similar_questions": [],
+  "raw": {
+    "questionId": "3813",
+    "questionFrontendId": "3518",
+    "title": "Smallest Palindromic Rearrangement II",
+    "titleSlug": "smallest-palindromic-rearrangement-ii",
+    "difficulty": "Hard",
+    "likes": 167,
+    "dislikes": 15,
+    "acRate": 32.874435365172815,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [
+      "Only build <code>floor(n / 2)</code> characters (the rest are determined by symmetry).",
+      "Count character frequencies and use half the counts for construction.",
+      "Incrementally choose each character (from smallest to largest) and calculate how many valid arrangements result if that character is chosen at the current index.",
+      "If the count is at least <code>k</code>, fix that character; otherwise, subtract the count from <code>k</code> and try the next candidate.",
+      "Use combinatorics to compute the number of permutations at each step."
+    ],
+    "similarQuestions": "[]"
+  },
+  "cached_at": "2026-07-29T08:40:07.355959+00:00"
+}
