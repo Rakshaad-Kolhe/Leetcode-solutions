@@ -1,0 +1,66 @@
+{
+  "problem_number": 3014,
+  "title": "Minimum Number of Pushes to Type Word I",
+  "slug": "minimum-number-of-pushes-to-type-word-i",
+  "difficulty": "Easy",
+  "acceptance_rate": "67.5%",
+  "likes": 211,
+  "dislikes": 38,
+  "topics": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "companies": [],
+  "hints": [
+    "We have 8 keys in total. We can type 8 characters with one push each, 8 different characters with two pushes each, and so on.",
+    "The optimal way is to map letters to keys evenly."
+  ],
+  "similar_questions": [
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "title_slug": "letter-combinations-of-a-phone-number",
+      "difficulty": "Medium"
+    }
+  ],
+  "raw": {
+    "questionId": "3275",
+    "questionFrontendId": "3014",
+    "title": "Minimum Number of Pushes to Type Word I",
+    "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+    "difficulty": "Easy",
+    "likes": 211,
+    "dislikes": 38,
+    "acRate": 67.50107315876618,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [
+      "We have 8 keys in total. We can type 8 characters with one push each, 8 different characters with two pushes each, and so on.",
+      "The optimal way is to map letters to keys evenly."
+    ],
+    "similarQuestions": "[{\"title\": \"Letter Combinations of a Phone Number\", \"titleSlug\": \"letter-combinations-of-a-phone-number\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]"
+  },
+  "cached_at": "2026-07-30T00:34:38.354249+00:00"
+}
