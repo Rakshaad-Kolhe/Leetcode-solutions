@@ -6,14 +6,14 @@
 
 | Metric | Count |
 | --- | ---: |
-| Total Solved | 9 |
+| Total Solved | 10 |
 | Easy | 4 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 1 |
 
-Last Updated: 2026-07-30T00:34:38Z
+Last Updated: 2026-07-31T09:43:02Z
 
-Newest Problem: 3014. Minimum Number of Pushes to Type Word I
+Newest Problem: 3016. Minimum Number of Pushes to Type Word II
 
 Oldest Problem: 3536. Maximum Product of Two Digits
 
@@ -24,7 +24,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 | Difficulty | Solved |
 | --- | ---: |
 | 🟢 Easy | 4 |
-| 🟠 Medium | 4 |
+| 🟠 Medium | 5 |
 | 🔴 Hard | 1 |
 
 ---
@@ -33,7 +33,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Language | Solved |
 | --- | ---: |
-| C++ | 9 |
+| C++ | 10 |
 
 ---
 
@@ -42,15 +42,15 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 | Topic | Solved |
 | --- | ---: |
 | Math | 5 |
-| Sorting | 4 |
-| String | 4 |
+| Sorting | 5 |
+| String | 5 |
 | Array | 3 |
-| Greedy | 2 |
+| Greedy | 3 |
+| Counting | 2 |
+| Hash Table | 2 |
 | Combinatorics | 1 |
-| Counting | 1 |
 | Counting Sort | 1 |
 | Dynamic Programming | 1 |
-| Hash Table | 1 |
 | Heap (Priority Queue) | 1 |
 
 ---
@@ -59,6 +59,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
+| 3016 | Minimum Number of Pushes to Type Word II | 🟠 Medium | C++ |
 | 3014 | Minimum Number of Pushes to Type Word I | 🟢 Easy | C++ |
 | 3518 | Smallest Palindromic Rearrangement II | 🔴 Hard | C++ |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | 🟠 Medium | C++ |
@@ -81,6 +82,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 | 1464 | Maximum Product of Two Elements in an Array | 🟢 Easy | C++ | [1464-Maximum Product of Two Elements in an Array](Easy/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | 🟠 Medium | C++ | [1689-Partitioning Into Minimum Number Of Deci-Binary Numbers](Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers) |
 | 3014 | Minimum Number of Pushes to Type Word I | 🟢 Easy | C++ | [3014-Minimum Number of Pushes to Type Word I](Easy/3014-Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) |
+| 3016 | Minimum Number of Pushes to Type Word II | 🟠 Medium | C++ | [3016-Minimum Number of Pushes to Type Word II](Medium/3016-Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) |
 | 3517 | Smallest Palindromic Rearrangement I | 🟠 Medium | C++ | [3517-Smallest Palindromic Rearrangement I](Medium/3517-Smallest%20Palindromic%20Rearrangement%20I) |
 | 3518 | Smallest Palindromic Rearrangement II | 🔴 Hard | C++ | [3518-Smallest Palindromic Rearrangement II](Hard/3518-Smallest%20Palindromic%20Rearrangement%20II) |
 | 3536 | Maximum Product of Two Digits | 🟢 Easy | C++ | [3536-Maximum Product of Two Digits](Easy/3536-Maximum%20Product%20of%20Two%20Digits) |

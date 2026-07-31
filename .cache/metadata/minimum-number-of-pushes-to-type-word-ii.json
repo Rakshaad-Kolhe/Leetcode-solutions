@@ -1,0 +1,84 @@
+{
+  "problem_number": 3016,
+  "title": "Minimum Number of Pushes to Type Word II",
+  "slug": "minimum-number-of-pushes-to-type-word-ii",
+  "difficulty": "Medium",
+  "acceptance_rate": "81.9%",
+  "likes": 894,
+  "dislikes": 85,
+  "topics": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "companies": [],
+  "hints": [
+    "We have 8 keys in total. We can type 8 characters with one push each, 8 different characters with two pushes each, and so on.",
+    "The optimal way is to map letters to keys evenly.",
+    "Sort the letters by frequencies in the word in non-increasing order."
+  ],
+  "similar_questions": [
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "title_slug": "letter-combinations-of-a-phone-number",
+      "difficulty": "Medium"
+    }
+  ],
+  "raw": {
+    "questionId": "3276",
+    "questionFrontendId": "3016",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "titleSlug": "minimum-number-of-pushes-to-type-word-ii",
+    "difficulty": "Medium",
+    "likes": 894,
+    "dislikes": 85,
+    "acRate": 81.92777867937589,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [
+      "We have 8 keys in total. We can type 8 characters with one push each, 8 different characters with two pushes each, and so on.",
+      "The optimal way is to map letters to keys evenly.",
+      "Sort the letters by frequencies in the word in non-increasing order."
+    ],
+    "similarQuestions": "[{\"title\": \"Letter Combinations of a Phone Number\", \"titleSlug\": \"letter-combinations-of-a-phone-number\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]"
+  },
+  "cached_at": "2026-07-31T09:43:02.898675+00:00"
+}

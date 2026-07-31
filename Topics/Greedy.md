@@ -1,6 +1,6 @@
 # Greedy
 
-Solved: 2
+Solved: 3
 
 ---
 
@@ -8,3 +8,4 @@ Solved: 2
 
 - [Partitioning Into Minimum Number Of Deci-Binary Numbers](../Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
 - [Minimum Number of Pushes to Type Word I](../Easy/3014-Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I)
+- [Minimum Number of Pushes to Type Word II](../Medium/3016-Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II)
