@@ -11,7 +11,7 @@
 | Medium | 5 |
 | Hard | 1 |
 
-Last Updated: 2026-08-04T08:34:04Z
+Last Updated: 2026-08-04T08:42:46Z
 
 Newest Problem: 3731. Find Missing Elements
 
