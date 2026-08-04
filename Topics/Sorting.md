@@ -1,6 +1,6 @@
 # Sorting
 
-Solved: 5
+Solved: 6
 
 ---
 
@@ -11,3 +11,4 @@ Solved: 5
 - [Minimum Number of Pushes to Type Word II](../Medium/3016-Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II)
 - [Smallest Palindromic Rearrangement I](../Medium/3517-Smallest%20Palindromic%20Rearrangement%20I)
 - [Maximum Product of Two Digits](../Easy/3536-Maximum%20Product%20of%20Two%20Digits)
+- [Find Missing Elements](../Easy/3731-Find%20Missing%20Elements)

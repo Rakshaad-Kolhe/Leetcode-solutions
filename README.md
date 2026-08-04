@@ -6,14 +6,14 @@
 
 | Metric | Count |
 | --- | ---: |
-| Total Solved | 10 |
-| Easy | 4 |
+| Total Solved | 11 |
+| Easy | 5 |
 | Medium | 5 |
 | Hard | 1 |
 
-Last Updated: 2026-07-31T09:43:02Z
+Last Updated: 2026-08-04T08:31:22Z
 
-Newest Problem: 3016. Minimum Number of Pushes to Type Word II
+Newest Problem: 3731. Find Missing Elements
 
 Oldest Problem: 3536. Maximum Product of Two Digits
 
@@ -23,7 +23,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Difficulty | Solved |
 | --- | ---: |
-| 🟢 Easy | 4 |
+| 🟢 Easy | 5 |
 | 🟠 Medium | 5 |
 | 🔴 Hard | 1 |
 
@@ -33,7 +33,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Language | Solved |
 | --- | ---: |
-| C++ | 10 |
+| C++ | 11 |
 
 ---
 
@@ -41,13 +41,13 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Topic | Solved |
 | --- | ---: |
+| Sorting | 6 |
 | Math | 5 |
-| Sorting | 5 |
 | String | 5 |
-| Array | 3 |
+| Array | 4 |
 | Greedy | 3 |
+| Hash Table | 3 |
 | Counting | 2 |
-| Hash Table | 2 |
 | Combinatorics | 1 |
 | Counting Sort | 1 |
 | Dynamic Programming | 1 |
@@ -59,6 +59,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
+| 3731 | Find Missing Elements | 🟢 Easy | C++ |
 | 3016 | Minimum Number of Pushes to Type Word II | 🟠 Medium | C++ |
 | 3014 | Minimum Number of Pushes to Type Word I | 🟢 Easy | C++ |
 | 3518 | Smallest Palindromic Rearrangement II | 🔴 Hard | C++ |
@@ -68,7 +69,6 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 | 1464 | Maximum Product of Two Elements in an Array | 🟢 Easy | C++ |
 | 152 | Maximum Product Subarray | 🟠 Medium | C++ |
 | 628 | Maximum Product of Three Numbers | 🟢 Easy | C++ |
-| 3536 | Maximum Product of Two Digits | 🟢 Easy | C++ |
 
 ---
 
@@ -86,3 +86,4 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 | 3517 | Smallest Palindromic Rearrangement I | 🟠 Medium | C++ | [3517-Smallest Palindromic Rearrangement I](Medium/3517-Smallest%20Palindromic%20Rearrangement%20I) |
 | 3518 | Smallest Palindromic Rearrangement II | 🔴 Hard | C++ | [3518-Smallest Palindromic Rearrangement II](Hard/3518-Smallest%20Palindromic%20Rearrangement%20II) |
 | 3536 | Maximum Product of Two Digits | 🟢 Easy | C++ | [3536-Maximum Product of Two Digits](Easy/3536-Maximum%20Product%20of%20Two%20Digits) |
+| 3731 | Find Missing Elements | 🟢 Easy | C++ | [3731-Find Missing Elements](Easy/3731-Find%20Missing%20Elements) |

@@ -1,0 +1,62 @@
+{
+  "problem_number": 3731,
+  "title": "Find Missing Elements",
+  "slug": "find-missing-elements",
+  "difficulty": "Easy",
+  "acceptance_rate": "87.2%",
+  "likes": 211,
+  "dislikes": 8,
+  "topics": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "companies": [],
+  "hints": [
+    "First, find the maximum and minimum elements in the array.",
+    "Then, iterate over all the integers in the range <code>[min, max]</code> and check if they are in the array.",
+    "If not, add them to the array, and return the sorted array at the end."
+  ],
+  "similar_questions": [],
+  "raw": {
+    "questionId": "4107",
+    "questionFrontendId": "3731",
+    "title": "Find Missing Elements",
+    "titleSlug": "find-missing-elements",
+    "difficulty": "Easy",
+    "likes": 211,
+    "dislikes": 8,
+    "acRate": 87.22834028740742,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [
+      "First, find the maximum and minimum elements in the array.",
+      "Then, iterate over all the integers in the range <code>[min, max]</code> and check if they are in the array.",
+      "If not, add them to the array, and return the sorted array at the end."
+    ],
+    "similarQuestions": "[]"
+  },
+  "cached_at": "2026-08-04T08:31:22.030820+00:00"
+}
