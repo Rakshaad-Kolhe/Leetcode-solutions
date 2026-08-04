@@ -52,14 +52,16 @@ https://leetcode.com/problems/find-missing-elements/
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        for (int i = 0; i < nums.size(); i++) {
-            int index = abs(nums[i]) - 1;
-            if (nums[index] > 0)
-                nums[index] = -nums[index];
+        int n = nums.size();
+
+        for (int i = 0; i < n; i++) {
+            int idx = abs(nums[i]) - 1;
+            if (nums[idx] > 0)
+                nums[idx] = -nums[idx];
         }
 
         vector<int> ans;
-        for (int i = 0; i < nums.size(); i++) {
+        for (int i = 0; i < n; i++) {
             if (nums[i] > 0)
                 ans.push_back(i + 1);
         }
@@ -74,6 +76,6 @@ public:
 Generated automatically by LeetCode Auto Sync.
 
 Last Updated:
-2026-08-04T08:31:22Z
+2026-08-04T08:32:49Z
 
-<!-- Trace ID: SYNC-20260804-6e700780 -->
+<!-- Trace ID: SYNC-20260804-b8ba0104 -->
