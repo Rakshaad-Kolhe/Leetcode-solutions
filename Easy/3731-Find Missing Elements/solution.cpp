@@ -3,11 +3,13 @@ public:
     vector<int> findMissingElements(vector<int>& nums) {
         int n = nums.size();
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < nums.size(); i++) {
             int idx = abs(nums[i]) - 1;
-            if (nums[idx] > 0)
-                nums[idx] = -nums[idx];
-        }
+            if (idx >= 0 && idx < nums.size()) {
+                if (nums[idx] > 0)
+                    nums[idx] = -nums[idx];
+    }
+}
 
         vector<int> ans;
         for (int i = 0; i < n; i++) {
