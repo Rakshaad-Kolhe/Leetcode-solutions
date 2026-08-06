@@ -1,0 +1,58 @@
+{
+  "problem_number": 3345,
+  "title": "Smallest Divisible Digit Product I",
+  "slug": "smallest-divisible-digit-product-i",
+  "difficulty": "Easy",
+  "acceptance_rate": "70.8%",
+  "likes": 201,
+  "dislikes": 19,
+  "topics": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Enumeration",
+      "slug": "enumeration"
+    }
+  ],
+  "companies": [],
+  "hints": [
+    "You have to check at most 10 numbers.",
+    "Apply a brute-force approach by checking each possible number."
+  ],
+  "similar_questions": [
+    {
+      "title": "Smallest Number With Given Digit Product",
+      "title_slug": "smallest-number-with-given-digit-product",
+      "difficulty": "Medium"
+    }
+  ],
+  "raw": {
+    "questionId": "3626",
+    "questionFrontendId": "3345",
+    "title": "Smallest Divisible Digit Product I",
+    "titleSlug": "smallest-divisible-digit-product-i",
+    "difficulty": "Easy",
+    "likes": 201,
+    "dislikes": 19,
+    "acRate": 70.82575091156937,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [
+      "You have to check at most 10 numbers.",
+      "Apply a brute-force approach by checking each possible number."
+    ],
+    "similarQuestions": "[{\"title\": \"Smallest Number With Given Digit Product\", \"titleSlug\": \"smallest-number-with-given-digit-product\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]"
+  },
+  "cached_at": "2026-08-06T09:46:01.800229+00:00"
+}

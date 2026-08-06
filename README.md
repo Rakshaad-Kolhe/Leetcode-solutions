@@ -6,14 +6,14 @@
 
 | Metric | Count |
 | --- | ---: |
-| Total Solved | 11 |
-| Easy | 5 |
+| Total Solved | 12 |
+| Easy | 6 |
 | Medium | 5 |
 | Hard | 1 |
 
-Last Updated: 2026-08-04T08:42:46Z
+Last Updated: 2026-08-06T09:46:01Z
 
-Newest Problem: 3731. Find Missing Elements
+Newest Problem: 3345. Smallest Divisible Digit Product I
 
 Oldest Problem: 3536. Maximum Product of Two Digits
 
@@ -23,7 +23,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Difficulty | Solved |
 | --- | ---: |
-| 🟢 Easy | 5 |
+| 🟢 Easy | 6 |
 | 🟠 Medium | 5 |
 | 🔴 Hard | 1 |
 
@@ -33,7 +33,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Language | Solved |
 | --- | ---: |
-| C++ | 11 |
+| C++ | 12 |
 
 ---
 
@@ -41,8 +41,8 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | Topic | Solved |
 | --- | ---: |
+| Math | 6 |
 | Sorting | 6 |
-| Math | 5 |
 | String | 5 |
 | Array | 4 |
 | Greedy | 3 |
@@ -51,6 +51,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 | Combinatorics | 1 |
 | Counting Sort | 1 |
 | Dynamic Programming | 1 |
+| Enumeration | 1 |
 | Heap (Priority Queue) | 1 |
 
 ---
@@ -59,6 +60,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
+| 3345 | Smallest Divisible Digit Product I | 🟢 Easy | C++ |
 | 3731 | Find Missing Elements | 🟢 Easy | C++ |
 | 3016 | Minimum Number of Pushes to Type Word II | 🟠 Medium | C++ |
 | 3014 | Minimum Number of Pushes to Type Word I | 🟢 Easy | C++ |
@@ -68,7 +70,6 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 | 7 | Reverse Integer | 🟠 Medium | C++ |
 | 1464 | Maximum Product of Two Elements in an Array | 🟢 Easy | C++ |
 | 152 | Maximum Product Subarray | 🟠 Medium | C++ |
-| 628 | Maximum Product of Three Numbers | 🟢 Easy | C++ |
 
 ---
 
@@ -83,6 +84,7 @@ Oldest Problem: 3536. Maximum Product of Two Digits
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | 🟠 Medium | C++ | [1689-Partitioning Into Minimum Number Of Deci-Binary Numbers](Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers) |
 | 3014 | Minimum Number of Pushes to Type Word I | 🟢 Easy | C++ | [3014-Minimum Number of Pushes to Type Word I](Easy/3014-Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) |
 | 3016 | Minimum Number of Pushes to Type Word II | 🟠 Medium | C++ | [3016-Minimum Number of Pushes to Type Word II](Medium/3016-Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) |
+| 3345 | Smallest Divisible Digit Product I | 🟢 Easy | C++ | [3345-Smallest Divisible Digit Product I](Easy/3345-Smallest%20Divisible%20Digit%20Product%20I) |
 | 3517 | Smallest Palindromic Rearrangement I | 🟠 Medium | C++ | [3517-Smallest Palindromic Rearrangement I](Medium/3517-Smallest%20Palindromic%20Rearrangement%20I) |
 | 3518 | Smallest Palindromic Rearrangement II | 🔴 Hard | C++ | [3518-Smallest Palindromic Rearrangement II](Hard/3518-Smallest%20Palindromic%20Rearrangement%20II) |
 | 3536 | Maximum Product of Two Digits | 🟢 Easy | C++ | [3536-Maximum Product of Two Digits](Easy/3536-Maximum%20Product%20of%20Two%20Digits) |
